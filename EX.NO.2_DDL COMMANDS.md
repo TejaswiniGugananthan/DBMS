@@ -75,6 +75,6 @@ rename to mystudent;
 ![6](https://github.com/Leann4468/DBMS/assets/121165979/47655109-2cd5-41f3-ba1c-2a704d546eea)
 
 ## Result:
-         Thus the basic DDL commands in SQL are executed. 
+  Thus the basic DDL commands in SQL are executed. 
 
 
